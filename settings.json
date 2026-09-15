@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NinjaWillSMP.aternos.me",
-    "port": 43873,
+    "ip": "NinjaWill.aternos.me",
+    "port": 27000,
     "version": "1.20.1",
     "try-creative": false
   },
